@@ -1,7 +1,7 @@
 Pad Warmer
 ==========
 
-![](https://raw.githubusercontent.com/hoosierEE/pad-warmer/master/setup1.jpg)
+![](https://raw.githubusercontent.com/hoosierEE/pad-warmer/master/pictures/setup1.jpg)
 
 This device consists of the following components
 
