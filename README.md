@@ -15,8 +15,9 @@ Usage
 4. plug in all IEC power cables
 5. turn the pad warmer on and wait 15 minutes for the pad to come up to a stable temperature
 
-> IMPORTANT NOTE
+> ## IMPORTANT NOTE
 > during the warm-up period the pad will become significantly hotter than the set temperature, so it is important to wait for it to stabilize.
+
 Configuration
 -------------
 Currently the pad is set to maintain a temperature of 30 degrees C.
